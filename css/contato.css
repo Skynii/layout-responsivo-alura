@@ -27,3 +27,14 @@
 
    margin-top: 1rem;
 }
+
+.rodape {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+
+   background-color: var(--bg-rodape);
+
+   padding-top: 2.5rem;
+   padding-bottom: 2rem;
+}
