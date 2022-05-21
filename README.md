@@ -1,2 +1,4 @@
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
+# Apeperia
+
+## Descrição do Projeto
+<p align="center">Projeto que do curso de Resposividade realizado pela plataforma Alura.</p>
